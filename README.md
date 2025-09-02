@@ -1,6 +1,15 @@
 # SMS-spam-detection-project
 
-Summary of Understanding the Dataset:-
+PROJECT DESCRIPTION :->
+
+This project aims to develop a machine learning model to classify SMS messages as spam or ham. The dataset is preprocessed to extract key features, and algorithms such as Naive Bayes and Logistic Regression are applied for classification. The system helps users filter out unwanted or fraudulent messages, ensuring safer and more efficient communication.
+
+
+The end goal of the project is to deploy an efficient and reliable spam detection system that can be integrated into messaging platforms, mobile applications, or email services. This will help protect users from phishing, fraud, and irrelevant advertisements, thereby improving communication security and user experience.
+
+
+
+SUMMARY OF UNDERSTANDING THE DATASET :->
 
 Data Type: Collection of SMS/text messages.
 
@@ -23,7 +32,9 @@ Frequency of certain words.
 Imbalance Issue: Usually, ham messages are much higher in number compared to spam, so class imbalance is common.
 
 
-Recommendation for End User :>
+
+
+RECOMMENDATION OF END USER :>
 
 1.Always keep the spam filter enabled so that suspicious SMS messages are automatically moved to the spam folder.
 
@@ -36,5 +47,5 @@ Recommendation for End User :>
 5.Regularly update the application/model to stay protected against new types of spam and fraud attempts.
 
 
----
+
 
